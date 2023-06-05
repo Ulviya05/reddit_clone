@@ -19,5 +19,4 @@ Technologies Used
 Front-end: HTML, CSS, JavaScript
 Back-end: Node.js
 Database: MongoDB
-User Authentication: JSON Web Tokens (JWT)
 Object Data Modeling: Mongoose
