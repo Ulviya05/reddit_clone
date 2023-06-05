@@ -17,6 +17,9 @@ Editing and Deleting Comments: Users have the ability to edit their own comments
 Technologies Used
 
 Front-end: HTML, CSS, JavaScript
+
 Back-end: Node.js
+
 Database: MongoDB
+
 Object Data Modeling: Mongoose
