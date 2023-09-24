@@ -1,8 +1,8 @@
-Reddit Clone
+# Reddit Clone
 
 Welcome to Reddit Clone, a web application that replicates the functionality of the popular social news aggregation and discussion website, Reddit. This project allows users to register, log in, and participate in various discussions by posting comments, upvoting or downvoting content, and interacting with other users.
 
-Features
+# Features
 
 User Authentication: Users can create an account, log in, and log out securely. Passwords are encrypted to ensure data privacy.
 
@@ -14,7 +14,7 @@ Voting Mechanism: Users can upvote or downvote comments to express their agreeme
 
 Editing and Deleting Comments: Users have the ability to edit their own comments if they want to make changes or provide additional information. They can also delete their comments if they no longer wish to have them displayed.
 
-Technologies Used
+# Technologies Used
 
 Front-end: HTML, CSS, JavaScript
 
