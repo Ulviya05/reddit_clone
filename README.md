@@ -16,10 +16,10 @@ Welcome to Reddit Clone, a web application that replicates the functionality of 
 
 ## Technologies Used
 
-Front-end: HTML, CSS, JavaScript
+**Front-end**: HTML, CSS, JavaScript
 
-Back-end: Node.js
+**Back-end**: Node.js
 
-Database: MongoDB
+**Database**: MongoDB
 
-Object Data Modeling: Mongoose
+**Object Data Modeling**: Mongoose
